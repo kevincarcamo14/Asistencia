@@ -52,6 +52,7 @@ public class chek_in extends javax.swing.JFrame {
         
         initComponents();
         setBounds(200,50,744,473);
+         this.setLocationRelativeTo(null);
         
      
        

@@ -18,6 +18,7 @@ public class horario extends javax.swing.JFrame {
      */
     public horario() {
         initComponents();
+         this.setLocationRelativeTo(null);
     }
 
     /**

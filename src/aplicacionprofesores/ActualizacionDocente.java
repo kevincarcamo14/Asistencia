@@ -16,6 +16,7 @@ public class ActualizacionDocente extends javax.swing.JFrame {
     ArrayList<Profesor> profe= new ArrayList ();
     public ActualizacionDocente() {
         initComponents();
+         this.setLocationRelativeTo(null);
     }
 
     /**

@@ -23,6 +23,7 @@ public class ReporteProfesores extends javax.swing.JFrame {
     {
         initComponents();
         setBounds(200,50,591,390);
+         this.setLocationRelativeTo(null);
     
     }
 
